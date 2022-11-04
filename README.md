@@ -6,5 +6,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsilveirag)
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsilveirag&show_icons=true&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilveirag&layout=compact&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilveirag&layout=compact&layout=compact&langs_count=16&theme=dracula"/>
 </div>
