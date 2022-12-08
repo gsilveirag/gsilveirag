@@ -1,5 +1,8 @@
 ## Olá ! Eu sou o Gustavo Silveira Goncalves 👋
 
+* 👀 Hoje procuro atuar com desenvolvimento: back-end e front-end.
+* 🌱 Estudando no momento: JavaScript FullStack
+* 📫 Contate-me no email: gustavo.silveira.goncalves@gmail.om
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gon%C3%A7alves-0a57491a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_goncalvess/)
