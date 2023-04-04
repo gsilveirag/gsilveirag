@@ -8,14 +8,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_goncalvess/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsilveirag)
 <div alight='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsilveirag&show_icons=true&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilveirag&layout=compact&layout=compact&langs_count=16&theme=dracula"/>
+  <img alight='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=gsilveirag&show_icons=true&theme=dracula"/>
+   <img alight='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilveirag&layout=compact&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
-<div alight='center'>
-  <img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<div>
+  <img alight='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img alight='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img alight='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alight='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img alight='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
