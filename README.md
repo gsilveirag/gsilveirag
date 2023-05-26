@@ -30,7 +30,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/gustavo-gon%C3%A7alves-0a57491a4/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://cdn0.iconfinder.com/data/icons/social-media-with-fill/64/likedin_colour-256.png">
     </a>
     <a href = "https://www.instagram.com/gustavo_goncalvess/">
       <img width="25" src="instagram.png">
