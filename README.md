@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Gustavo Silveira Goncalves 👋
 
-* 👀 Hoje eu atuo como Estagiario de Desenvolvimento, na Globlalsys. (https://globalsys.com.br/) 
+* 👀 Hoje eu atuo como Estagiario de Desenvolvimento, na Globalsys. (https://globalsys.com.br/) 
 * 🌱 Procuro atuar com desenvolvimento: back-end e front-end.
 * 🌱 Estudando no momento: JavaScript FullStack (https://onebitcode.com/) juntamente com o site da Rockseat (https://www.rocketseat.com.br/)
 * 🌱 Formando em: Analise e Desenvolvimento de Sistemas (https://uvv.br/)
