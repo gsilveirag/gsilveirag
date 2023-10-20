@@ -1,8 +1,8 @@
 ## Olá ! Eu sou o Gustavo Silveira Goncalves 👋
 
-* 👀 Hoje eu atuo como Estagiario de Desenvolvimento, na Globalsys. (https://globalsys.com.br/) 
+* 👀 Atualmente estou como Desenvolvedor Junior na Optsol, trabalhando como Fullstack. (https://optsoltecnologia.com.br/). Front React, Back C#.
+* 🌱 Atuei por 4 meses como Desenvolvedor Mobile, na Globalsys. (https://globalsys.com.br/) React Native e Typescript no android.
 * 🌱 Procuro atuar com desenvolvimento: back-end e front-end.
-* 🌱 Estudando no momento: JavaScript FullStack (https://onebitcode.com/) juntamente com o site da Rockseat (https://www.rocketseat.com.br/)
 * 🌱 Formando em: Analise e Desenvolvimento de Sistemas (https://uvv.br/)
 * 📫 Contate-me no email: gustavo.silveira.goncalves@gmail.com
 
