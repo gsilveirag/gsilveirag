@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Gustavo Silveira Goncalves 👋
 
-* 👨‍💻 Atualmente sou Desenvolvedor Júnior na Optsol Tecnologia, atuando como Full Stack com C# no backend e React no frontend.
+* 👨‍💻 Atualmente sou Desenvolvedor Júnior na Optsolv Tecnologia, atuando como Full Stack com C# no backend e React no frontend.
 * 📱 Tive uma experiência anterior de 4 meses na Globalsys, como Desenvolvedor Mobile, utilizando React Native e TypeScript para Android.
 * 🚀 Tenho interesse em atuar com desenvolvimento backend e frontend, explorando soluções que tragam valor real para o usuário.
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UVV.
