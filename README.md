@@ -26,7 +26,7 @@
       <img width="25" src="https://cdn0.iconfinder.com/data/icons/social-media-with-fill/64/likedin_colour-256.png">
     </a>
     <a href = "https://www.instagram.com/gustavo_goncalvess/">
-      <img width="25" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png">
+      <img width="25" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png">
     </a>
 </div>
   
