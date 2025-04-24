@@ -17,9 +17,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
     
-
 <h1 align="center">Redes Sociais</h1>
-
 
   <a href="mailto:gustavo.silveira.goncalves@gmail.com">
     <img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png">
