@@ -6,8 +6,6 @@
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UVV.
 * 📫 E-mail para contato: gustavo.silveira.goncalves@gmail.com
 
-<br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -19,7 +17,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
     
-  
+
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gustavo.silveira.goncalves@gmail.com">
       <img width="30" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png">
