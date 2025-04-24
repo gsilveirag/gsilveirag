@@ -18,15 +18,16 @@
    </div>
     
 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gustavo.silveira.goncalves@gmail.com">
-      <img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png">
-    </a>
-    <a href = "https://www.linkedin.com/in/gustavo-gon%C3%A7alves-0a57491a4/">
-      <img width="25" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png">
-    </a>
-    <a href = "https://www.instagram.com/gustavo_goncalvess/">
-      <img width="25" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png">
-    </a>
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="mailto:gustavo.silveira.goncalves@gmail.com">
+    <img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-0a57491a4/">
+    <img width="25" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png">
+  </a>
+  <a href="https://www.instagram.com/gustavo_goncalvess/">
+    <img width="25" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png">
+  </a>
+</div>
 </div>
   
